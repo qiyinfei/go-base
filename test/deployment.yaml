@@ -1,6 +1,7 @@
 apiVersion: v1
 kind: DaemonSet
 state: undefined
+state: test
 metadata:
     name: emr-agent
     namespace: ecm-server
